@@ -2,6 +2,9 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Racconto Ibleo"
 theme = "swift"
+# author = "Giuseppe Criscione"
+# copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
+designer = "Giuseppe Criscione"
 
 [taxonomies]
    tag = "tags"

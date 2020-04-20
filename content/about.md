@@ -1,8 +1,13 @@
 ---
 title: "Racconto Ibleo"
 image: 'banner.jpg'
-hidden: true
+author: "Giuseppe Criscione"
 ---
 
-Racconto Ibleo, nasce con l'obiettivo di conservare la memoria dei luoghi storici del territorio ibleo. L'idea è quello di realizzare un museo libero a cielo aperto con i luighi raggiungibili da chiunque tramite le coordinate geografiche. 
+Racconto Ibleo è un'idea di Giuseppe Criscione e Lorenzo Baglieri.
+
+L'obiettivo è quello di conservare la memoria dei luoghi storici del territorio ibleo realizzando un museo libero a cielo aperto.
+Ogni pezzo del museo è provvisto di descrizione, foto e coordinate geografiche, in modo da poter essere raggiunto da chiunque.
+
+Un ringraziamento particolare a Giovanni Diquattro e Gianni Iurato per i contenuti.
 
