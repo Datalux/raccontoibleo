@@ -1,0 +1,10 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Racconto Ibleo"
+theme = "swift"
+
+[taxonomies]
+   tag = "tags"
+   category = "categories"
+
+

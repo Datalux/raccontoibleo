@@ -1,0 +1,8 @@
+- item: Home
+  url: /
+- item: About
+  url: about/
+- item: Il progetto
+  url: project/
+- item: Categorie
+  url: tags

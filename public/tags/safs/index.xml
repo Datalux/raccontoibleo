@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SAFS on Racconto Ibleo</title>
+    <link>/tags/safs/</link>
+    <description>Recent content in SAFS on Racconto Ibleo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/tags/safs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Asta manovra SAFS - primo ventennio 1900</title>
+      <link>/posts/safs-asta-manovra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/safs-asta-manovra/</guid>
+      <description>Descrizione Il rilevato su cui scorreva il binario morto della SAFS (Ferrovia Secondaria Siracusa Ragusa Vizzini). Il binario partiva dallo scalo merci Safs e, affiancando il viale del Fante, terminava in corrispondenza del sottopassaggio di via Carducci, proprio dove c&amp;rsquo;era una fontanella pubblica. Più correttamente, era definito &amp;ldquo;asta di manovra&amp;rdquo; e serviva per consentire alle locomotive di superare il dislivello fra lo scalo merci e la stazione, posta qualche metro più in alto: le locomotive lo percorrevano tutto e poi tornavano in retromarcia, e uno scambio le indirizzava verso la stazione o verso lo scalo sottostante.</description>
+    </item>
+    
+    <item>
+      <title>SAFS e foto aerea di Ragusa - 1927</title>
+      <link>/posts/safs-ragusa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/safs-ragusa/</guid>
+      <description>Descrizione Foto aerea di Ragusa del 1927: con i numeri 1 e 2 sono contrassegnati rispettivamente i due caselli FS e SAFS, il primo dei quali è ancora esistente, visibile da via P.Anselmo (che allora non c&amp;rsquo;era); con il numero 3 il punto in cui, cinque anni dopo, fu realizzato il sottopassaggio di via Carducci che rese inutili i due caselli, chiudendo il relativo doppio passaggio a livello; con il numero 4 il tombino di scarico delle acque tuttora visibile in viale del Fante, di fronte al palazzo della Provincia.</description>
+    </item>
+    
+  </channel>
+</rss>

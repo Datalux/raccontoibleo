@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Racconto Ibleo</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Racconto Ibleo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ABCD</title>
+      <link>/tags/abcd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/abcd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Casamatte</title>
+      <link>/tags/casamatte/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/casamatte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ragusa</title>
+      <link>/tags/ragusa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ragusa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SAFS</title>
+      <link>/tags/safs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/safs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Santa Croce</title>
+      <link>/tags/santa-croce/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/santa-croce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scicli</title>
+      <link>/tags/scicli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/scicli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trincee</title>
+      <link>/tags/trincee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/trincee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WWII</title>
+      <link>/tags/wwii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/wwii/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
