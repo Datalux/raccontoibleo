@@ -1,8 +1,8 @@
 - item: Home
   url: /
+- item: Categorie
+url: tags
 - item: About
   url: about/
 - item: Il progetto
   url: project/
-- item: Categorie
-  url: tags
