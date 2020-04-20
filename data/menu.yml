@@ -1,7 +1,7 @@
 - item: Home
   url: /
 - item: Categorie
-url: tags
+  url: tags
 - item: About
   url: about/
 - item: Il progetto
