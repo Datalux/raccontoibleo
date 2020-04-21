@@ -4,7 +4,7 @@ author: Giuseppe Criscione
 image: bunker-sp44.jpg
 #showcase: true
 draft: false
-tags: [Casamatte, WWII]
+tags: [Casamatte, Bunker, WWII]
 ---
 
 # Descrizione

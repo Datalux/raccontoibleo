@@ -19,4 +19,5 @@ Marina di Ragusa, RG
 # Galleria
 
 {{< picture "trincee-ingresso-marina-rg-1.jpg" "trincee-ingresso-marina-rg-1.jpg" >}}
+{{< picture "trincee-ingresso-marina-rg-2.jpg" "trincee-ingresso-marina-rg-2.jpg" >}}
 

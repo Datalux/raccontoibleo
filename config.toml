@@ -5,6 +5,8 @@ theme = "swift"
 # author = "Giuseppe Criscione"
 # copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
 designer = "Giuseppe Criscione"
+paginate = 6
+
 
 [taxonomies]
    tag = "tags"

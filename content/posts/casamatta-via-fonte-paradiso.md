@@ -4,7 +4,7 @@ author: Giuseppe Criscione
 image: casamatta-via-fonte-paradiso.jpg
 # showcase: true
 draft: false
-tags: [Santa Croce, Casamatte, WWII]
+tags: [Santa Croce, Casamatte, Bunker, WWII]
 ---
 
 # Descrizione

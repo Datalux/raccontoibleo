@@ -2,6 +2,7 @@
 title: "Racconto Ibleo"
 image: 'banner.jpg'
 author: "Giuseppe Criscione"
+hidden: true
 ---
 
 Racconto Ibleo è un'idea di Giuseppe Criscione e Lorenzo Baglieri.
