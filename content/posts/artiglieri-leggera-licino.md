@@ -1,5 +1,5 @@
 ---
-title: Resti di opere difensive - II Guerra mondiale
+title: Scicli - Resti di opere difensive - II Guerra mondiale
 author: Lorenzo Baglieri
 image: artiglieri-leggera-licino-1.jpg
 draft: false

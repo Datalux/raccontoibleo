@@ -1,5 +1,5 @@
 ---
-title: Resti di opera difensiva - II Guerra mondiale
+title: Pisciotto - Resti di opera difensiva - II Guerra mondiale
 author: Lorenzo Baglieri
 image: mitragliatrice-pisciotto-1.jpg
 draft: false
