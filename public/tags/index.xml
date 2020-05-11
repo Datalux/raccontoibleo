@@ -92,6 +92,33 @@
     </item>
     
     <item>
+      <title>tag1</title>
+      <link>/tags/tag1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tag1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag2</title>
+      <link>/tags/tag2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tag2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag3</title>
+      <link>/tags/tag3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tag3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Trincee</title>
       <link>/tags/trincee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

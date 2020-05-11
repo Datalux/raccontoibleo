@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ferrovia on Racconto Ibleo</title>
+    <link>/tags/ferrovia/</link>
+    <description>Recent content in Ferrovia on Racconto Ibleo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/tags/ferrovia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stazione ferroviaria di Ragusa Ibla</title>
+      <link>/posts/stazione-ragusa-ibla/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/stazione-ragusa-ibla/</guid>
+      <description>Descrizione La stazione di Ibla ancora in piena attività nei primi anni 90.
+Località Ragusa Ibla, RG
+Come raggiungerlo? Apri in Google Maps
+Galleria    </description>
+    </item>
+    
+  </channel>
+</rss>
