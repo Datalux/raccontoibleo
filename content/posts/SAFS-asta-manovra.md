@@ -22,4 +22,6 @@ Ragusa - viale del Fante, RG
 
 # Galleria
 
-{{< picture "SAFS-asta-manovra-1.jpg" "SAFS-asta-manovra-2.jpg" >}}
+{{< picture "SAFS-asta-manovra-1.jpg" "SAFS-asta-manovra-1.jpg" >}}
+
+{{< picture "SAFS-asta-manovra-2.jpg" "SAFS-asta-manovra-2.jpg" >}}

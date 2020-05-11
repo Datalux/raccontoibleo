@@ -18,4 +18,4 @@ Ragusa - piazza Libertà, RG
 
 # Galleria
 
-{{< picture "piazza-libertà-1.jpg" >}}
+{{< picture "piazza-libertà-1.jpg" "piazza-libertà-1.jpg" >}}

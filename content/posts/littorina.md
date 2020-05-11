@@ -27,4 +27,4 @@ Comiso,RG
 
 # Galleria
 
-{{< picture "littorina-1.jpg" >}}
+{{< picture "littorina-1.jpg" "littorina-1.jpg" >}}

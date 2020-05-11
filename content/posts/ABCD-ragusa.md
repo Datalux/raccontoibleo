@@ -20,4 +20,4 @@ Ragusa, via Archimede -1970, RG
 
 # Galleria
 
-{{< picture "ABCD-ragusa-1.jpg" >}}
+{{< picture "ABCD-ragusa-1.jpg" "ABCD-ragusa-1.jpg" >}}

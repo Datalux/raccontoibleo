@@ -18,4 +18,4 @@ Ragusa, RG
 
 # Galleria
 
-{{< picture "ospedale-civile-ragusa-1.jpg" >}}
+{{< picture "ospedale-civile-ragusa-1.jpg"  "ospedale-civile-ragusa-1.jpg">}}

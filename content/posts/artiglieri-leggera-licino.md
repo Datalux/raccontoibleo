@@ -17,4 +17,4 @@ Scicli - contrada Catteto, RG
 
 # Galleria
 
-{{< picture "artigleri-leggera-licino-1.jpg" >}}
+{{< picture "artigleri-leggera-licino-1.jpg"  "artigleri-leggera-licino-1.jpg">}}
