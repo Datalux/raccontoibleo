@@ -7,7 +7,7 @@ tags: [Scicli, Artiglieria]
 ---
 
 # Descrizione
-Resti di opere difensive realizzate per ospitare mitriagliatrici di piccolo calibro site in contrada Lincino
+Resti di opere difensive realizzate per ospitare mitriagliatrici di piccolo calibro site in contrada Catteto
 
 # Località
 Scicli - contrada Catteto, RG
