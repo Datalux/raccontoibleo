@@ -9,7 +9,7 @@ tags: [Scicli, Artiglieria]
 # Descrizione
 
 # Località
-[Scicli - contrada Catteto, RG]
+[Scicli - contrada Pisciotto (Fornace Penna) , RG]
 
 # Come raggiungerlo?
 [Apri in Google Maps](https://goo.gl/maps/cFszUBnTK4y1HUH16)
