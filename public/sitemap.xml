@@ -51,6 +51,10 @@
   </url>
   
   <url>
+    <loc>/posts/littorina/</loc>
+  </url>
+  
+  <url>
     <loc>/posts/ospedale-civile-ragusa/</loc>
   </url>
   
@@ -79,6 +83,14 @@
   </url>
   
   <url>
+    <loc>/posts/mitragliatrice-pisciotto/</loc>
+  </url>
+  
+  <url>
+    <loc>/posts/artiglieri-leggera-licino/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/safs/</loc>
   </url>
   
@@ -100,6 +112,18 @@
   
   <url>
     <loc>/posts/stazione-ragusa-ibla/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/tag1/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/tag2/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/tag3/</loc>
   </url>
   
   <url>

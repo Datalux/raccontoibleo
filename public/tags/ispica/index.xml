@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ispica on Racconto Ibleo</title>
+    <link>/tags/ispica/</link>
+    <description>Recent content in Ispica on Racconto Ibleo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/tags/ispica/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bunker in Via degli Studi a Ispica</title>
+      <link>/posts/bunker-via-degli-studi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/bunker-via-degli-studi/</guid>
+      <description>Descrizione Bunker con ingresso in Via degli Studi a Ispica.
+Località Via degli Studi, Ispica, RG
+Come raggiungerlo? Apri in Google Maps
+Galleria    </description>
+    </item>
+    
+  </channel>
+</rss>
