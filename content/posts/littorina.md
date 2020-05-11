@@ -1,9 +1,9 @@
 ---
 title: Littorina presso stazione di Comiso - II Guerra mondiale
 author: Lorenzo Baglieri
-image: artiglieri-leggera-licino-1.jpg
+image: littorina-1.jpg
 draft: false
-tags: [tag1, tag2, tag3]
+tags: [Commiso, Ferrovia]
 ---
 
 # Descrizione

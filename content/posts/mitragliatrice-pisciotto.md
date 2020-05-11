@@ -1,9 +1,9 @@
 ---
 title: Resti di opera difensiva - II Guerra mondiale
 author: Lorenzo Baglieri
-image: artiglieri-leggera-licino-1.jpg
+image: mitragliatrice-pisciotto-1.jpg
 draft: false
-tags: [tag1, tag2, tag3]
+tags: [Scicli, Artiglieria]
 ---
 
 # Descrizione
