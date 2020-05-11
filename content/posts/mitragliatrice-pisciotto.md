@@ -16,4 +16,5 @@ tags: [Scicli, Artiglieria]
 
 # Galleria
 
-{{< picture "mitragliatrice-pisciotto-1.jpg" "mitragliatrice-pisciotto-2.jpg" >}}
+{{< picture "mitragliatrice-pisciotto-1.jpg" "mitragliatrice-pisciotto-1.jpg" >}}
+{{< picture "mitragliatrice-pisciotto-2.jpg" "mitragliatrice-pisciotto-2.jpg" >}}

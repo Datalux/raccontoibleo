@@ -20,6 +20,15 @@
     </item>
     
     <item>
+      <title>Artiglieria</title>
+      <link>/tags/artiglieria/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/artiglieria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bunker</title>
       <link>/tags/bunker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -34,6 +43,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/tags/casamatte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comiso</title>
+      <link>/tags/comiso/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/comiso/</guid>
       <description></description>
     </item>
     
@@ -88,33 +106,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/tags/scicli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tag1</title>
-      <link>/tags/tag1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/tag1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tag2</title>
-      <link>/tags/tag2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/tag2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tag3</title>
-      <link>/tags/tag3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/tag3/</guid>
       <description></description>
     </item>
     

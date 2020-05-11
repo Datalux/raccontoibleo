@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artiglieria on Racconto Ibleo</title>
+    <link>/tags/artiglieria/</link>
+    <description>Recent content in Artiglieria on Racconto Ibleo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/tags/artiglieria/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pisciotto - Resti di opera difensiva - II Guerra mondiale</title>
+      <link>/posts/mitragliatrice-pisciotto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/mitragliatrice-pisciotto/</guid>
+      <description>Descrizione Località [Scicli - contrada Catteto, RG]
+Come raggiungerlo? Apri in Google Maps
+Galleria  </description>
+    </item>
+    
+    <item>
+      <title>Scicli - Resti di opere difensive - II Guerra mondiale</title>
+      <link>/posts/artiglieri-leggera-licino/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/artiglieri-leggera-licino/</guid>
+      <description>Descrizione Resti di opere difensive realizzate per ospitare mitriagliatrici di piccolo calibro site in contrada Catteto
+Località Scicli - contrada Catteto, RG
+Come raggiungerlo? Apri in Google Maps
+Galleria  </description>
+    </item>
+    
+  </channel>
+</rss>
