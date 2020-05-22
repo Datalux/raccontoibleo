@@ -13,7 +13,8 @@ di persone, coi sacchetti in mano, che sembrano tornare dal mercato settimanale 
 dell'ex campo boario di c.da Petrulli.
 
 # Località
-Ragusa, via Archimede -1970, RG
+Via Archimede (anno 1970), Ragusa, RG
+
 
 # Come raggiungerlo?
 [Apri in Google Maps](https://goo.gl/maps/mu4tYdeGNPhbBJui9)
